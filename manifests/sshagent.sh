@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 # Ensure that SSH_AUTH_SOCK is kept
 if [ -n "$SSH_AUTH_SOCK" ]; then
