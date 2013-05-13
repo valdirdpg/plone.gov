@@ -1,4 +1,4 @@
 portalmodelo.vagrant
 ====================
 
-Configuração Vagrant para Portal Modelo
+Configuração Vagrant para desenvolvimento do modelo de portal Plone para Identidade Digital de Governo
